@@ -2,12 +2,12 @@
 
 Description:
 
-This project aims to develope an alternative funding protocol for the Open Development
-of Astronomy and astrophyscs based on open blockchain ledger technology, as a straw-persons model.
+This project aims to develop an alternative funding protocol for the Open Development
+of Astronomy and astrophyscs based on open block-chain ledger technology, as a straw-persons model.
 
 The main motivation is to stop the hemorrhage or the "brain-drain' of
 Astronomy and Astrophysics grey-matter, as measured over the last
-fifty years in `Public Universities', when the 'large' US University
+fifty years in public universities, when the 'large' US Public University
 'Market' is taken as a proxy, but it also aims to foster complimentary
 open development and innovation for Astronomy based on decentralized
 governance.
@@ -17,9 +17,10 @@ It attempts to be a network, that could be run on an "coordinated astropy packag
 part of publications, and other Open Development metrics etc as an alternative funding source based on the "Decentralized Finance
 Movement" liquidity. 
 
-Contributing: Contributors are encouraged to help better the paper, or help with astropy affiliated discussion and development of metrics.
+Contributing: Of course contributors are necessary and are encouraged to help strength the paper, or help with astropy affiliated discussion, development of metrics, etc
 
 ##############################################
+Internal notes (may be still required)
 
 Table of Contents: Optionally, include a table of contents in order to allow other people to quickly navigate especially long or detailed READMEs.
 
