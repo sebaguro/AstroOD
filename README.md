@@ -17,7 +17,7 @@ It attempts to be a network, that could be run on an "coordinated astropy packag
 part of publications, and other Open Development metrics etc as an alternative funding source based on the "Decentralized Finance
 Movement" liquidity. 
 
-Contributing: Of course contributors are necessary and are encouraged to help strength the paper, or help with astropy affiliated discussion, development of metrics, etc
+Contributing: Of course contributors are necessary either for the paper, or help with astropy affiliated discussion, development of metrics, etc
 
 ##############################################
 Internal notes (may be still required)
