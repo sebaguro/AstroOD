@@ -13,7 +13,7 @@ open development and innovation for Astronomy based on decentralized
 governance.
 
 
-It attempts to be a network, that could be run on an "coordinated astropy package", subgraph tech etc.,  that validates use of astropy modules that are
+It attempts to be a network, that could be run on an "coordinated astropy package", subgraph tech etc.,  as validators of astropy modules that are
 part of publications, and other Open Development metrics etc as an alternative funding source based on the "Decentralized Finance
 Movement" liquidity. 
 
@@ -22,7 +22,7 @@ Contributing: Of course contributors are necessary and are encouraged to help st
 ##############################################
 Internal notes (may be still required)
 
-Table of Contents: Optionally, include a table of contents in order to allow other people to quickly navigate especially long or detailed READMEs.
+Table of Contents: Working on a New Kadashev relation and general tokenomics
 
 Installation: Installation is the next section in an effective README. Tell other users how to install your project locally. Optionally, include a gif to make the process even more clear for other people.
 
