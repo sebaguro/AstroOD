@@ -1,4 +1,4 @@
-# AstroOD A straw-person model of a Peer-to-Peer Electronic Cash System base-layer for the Open Development of Astronomy: Education and Research}
+# Recalling Kardashev:\\ A straw-person Peer-to-Peer Electronic Cash System base-layer primer for the Open Development of Astronomy and Astrophysics via the open blockchain public ledger}
 
 Description:
 
