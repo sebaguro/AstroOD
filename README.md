@@ -13,7 +13,7 @@ open development and innovation for Astronomy based on decentralized
 governance.
 
 
-It attempts to be a network, that could be run on an "coordinated astropy package", subgraph tech etc.,  as validators of astropy modules that are
+It attempts to be a network, that could be run on an "coordinated astropy package", Nostr protocol, subgraph tech etc.,  as validators of astropy modules that are
 part of publications, and other Open Development metrics etc as an alternative funding source based on the "Decentralized Finance
 Movement" liquidity. 
 
