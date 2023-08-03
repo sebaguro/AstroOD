@@ -29,6 +29,8 @@
 \usepackage{rotating}
 \usepackage{hyperref}
 \usepackage[T1]{fontenc}
+\usepackage{multirow}
+
 
 %\usepackage[czech]{babel} % recommended if you write in Czech
 \usepackage{lmodern}
@@ -324,7 +326,26 @@ In Fig. \ref{fig:kardashev3}, we show the same data on a log-log plot and includ
 
 The figures show that the estimations of time required to reach type-i and type-ii for Kardashev and Sagan with a simple average incremental extrapolation are indeed significantly off since real world data include yearly decrements in Energy production as well as yearly increments due to stokastic processes. As can be seen more recently in 2008 (sub-prime crisis) and 2020 COVID19 pandemic.
 
-We calculate the difference between successive years of the Energy Production from 1964 to 2021 using the Oneworld yearly total consumption data. 
+We calculate the difference between successive years of the Energy Production from 1964 to 2022 using the Oneworld yearly total production data. 
+
+
+\begin{table}[h]
+\centering
+\caption{Your 1st Table Caption}
+\label{kard_comp}
+\begin{tabular}{|l|l|c|c|}
+\hline
+\multirow{2}{*}{Data Source} & \multirow{2}{*}{Power_{1965}} & \multicolumn{2}{c|}{Type II Timescale} \\
+\cline{3-4}
+                             &                       & Geo Model (kyr) & OLS Model         \\
+\hline
+kard64 \cite{kar64} & 4 TW                & 3.2             & NA          \\
+\hline
+OurWorld \cite{owidenergy}    & 43307 TW               & 2.3             & $> H_{0}$     \\
+\hline
+\end{tabular}
+\end{table}
+
 
 A histogram of the distribution of successive difference in the Power values is shown in Fig. \ref{fig:his_power}. 
 
@@ -664,7 +685,7 @@ SG acknowledges the New Virtual Observatory of Argentina (NOVA) and his selectio
 %
 %\section*{References}
 %\label{biblio}
-\bibliographystyle{model2-names-astronomy}
+\bibliographystyle{plain}
 \bibliography{ivoatoken}
 
 
